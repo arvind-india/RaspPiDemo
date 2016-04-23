@@ -2,7 +2,7 @@
 
 This simple README covers how to change some config for Kafka so that it can run on a Raspberry Pi cluster.
 
-<img src="https://github.com/keiraqz/RaspPiDemo/blob/master/flask/app/static/img/thePi.jpg" width="200" /> 
+<img src="https://github.com/keiraqz/RaspPiDemo/blob/master/flask/app/static/img/thePi.jpg" width="300" /> 
 
 ## Install Zookeeper on the cluster
 
